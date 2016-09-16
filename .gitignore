@@ -2,3 +2,31 @@
 *.iml
 
 .bin/
+
+target/
+node_modules/
+
+### Eclipse###
+bin/
+tmp/
+.*tmp
+*.bak
+*.swp
+*`.nib
+local.properties
+.settings/
+.loadpath
+.recomenders
+
+#Eclipse Core
+.project
+
+#External tool builders
+.externalTooBuilders/
+
+#Locally stored "Eclipse launch configurations"
+*.launch
+
+#JDT-specifics
+.classpath
+
