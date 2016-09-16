@@ -1,0 +1,15 @@
+{
+  "name": "demo-fronted",
+  "description": "Test",
+  "main": "index.js",
+  "authors": [
+    "jarekpc@o2.pl"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+
+  }
+
+}
